@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.layer-floor-reflection",
+  "id": "com.hereliesaz.azphalt.floor-reflection",
   "name": "Floor Reflection",
   "version": "1.0.0",
   "kind": "asset",
