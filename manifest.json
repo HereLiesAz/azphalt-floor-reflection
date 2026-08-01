@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Drops a half-strength mirror image just below the layer, as if it were standing on polished floor.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
